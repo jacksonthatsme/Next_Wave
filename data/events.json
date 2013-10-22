@@ -1,0 +1,12 @@
+{
+"Hans was Heiri":[
+  "location":"BAM Harvey Theater",
+  "dates":[
+    {"dayOfWeek":"Wednesday", "month":"October","date":"23","year":"2013"},
+    {"dayOfWeek":"Thursday", "month":"October","date":"24","year":"2013"},
+    {"dayOfWeek":"Friday", "month":"October","date":"25","year":"2013"},
+    {"dayOfWeek":"Saturday", "month":"October","date":"26","year":"2013"}
+  ],
+  "runTime":["hours":"1","minutes":"20"],
+]
+}
