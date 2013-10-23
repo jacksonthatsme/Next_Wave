@@ -4,10 +4,7 @@
   	{"location":""},
   	{"price":[{"fullPrice":""},{"seasonTicket":""}]},
   	{"dates":[
-      	{"dayOfWeek":"", "month":"","date":"","year":"2013"},
-      	{"dayOfWeek":"", "month":"","date":"","year":"2013"},
-      	{"dayOfWeek":"", "month":"","date":"","year":"2013"},
-      	{"dayOfWeek":"", "month":"","date":"","year":"2013"}
+      	{"dayOfWeek":"","month":"","date":"","year":"2013"},
       ]},
       {"time":""},
       {"runTime":[{"hours":""},{"minutes":""}]},
