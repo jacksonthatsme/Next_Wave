@@ -1,0 +1,25 @@
+- title: 
+  category: 
+  location: 
+  price:
+    fullprice: !str 
+    seasonticket: !str 
+  dates:
+    - day: 
+      month: 
+      date: !str 
+      year: !str 2013
+  time: !str 7:30pm
+  run: 
+  intermission: false
+  quote: 
+  reviewer: 
+  description: 
+  credits:
+    - 
+  byline: 
+  addinfo:
+    - 
+  image: 
+  video: ~
+  premier: 

@@ -1,0 +1,736 @@
+---
+- title: Hans was Heiri
+  category: Theater
+  location: BAM Harvey Theater
+  price:
+    fullprice: !str 25
+    seasonticket: !str 17.50
+  dates:
+    - day: Wednesday
+      month: October
+      date: !str 24
+      year: !str 2013
+    - day: Thursday
+      month: October
+      date: !str 25
+      year: !str 2013
+    - day: Friday
+      month: Octover
+      date: !str 26
+      year: !str 2013
+    - day: Saturday
+      month: October
+      date: !str 27
+      year: !str 2013
+  time: !str 7:30pm
+  run: 1hr 20m
+  intermission: false
+  quote: ...part-acrobatics, part-dance and part-slapstick show with a freewheeling feel...
+  reviewer: London Evening Standard
+  description: In this trailblazing work directed by the inventive Swiss duo Zimmermann & de Perrot, seven performers inhabit a topsy-turvy world where, at any moment, the ceiling can become a floor, a floor can become a wall, and a door can become a chasm. A gigantic, rotating four-room box is the dizzying place where these loose-limbed actors, dancers, and acrobats dodge falling furniture and tumble their way to acrobatic virtuosity, always with impeccable timing. Conceived by choreographer Martin Zimmermann and composer Dimitri de Perrot, who performs his ecstatic original score, Hans was Heiri offers a hilarious portrait of human relationships conveyed through a witty scenic language all its own.
+  credits:
+    - Concept, direction and stage design by Zimmermann & de Perrot
+    - Composition by Dimitri de Perrot
+    - Choreography by Martin Zimmermann
+    - Dramaturgy by Sabine Geistlich
+    - !str Decor by Ingo Groher, Christiane Voth, and Théâtre Vidy-Lausanne
+    - Costumes by Franziska Born
+    - Lighting design by Ursula Degen
+    - Sound design by Andy Neresheimer
+  byline: Zimmermann & de Perrot
+  addinfo: ~
+  image: hans-was-heiri.jpg
+  video: ~
+  premier: ny
+- title: Nosferatu
+  category: Theater
+  location: BAM Harvey Theater
+  price:
+    fullprice: !str 20
+    seasonticket: !str 14
+  dates:
+    - day: Wednesday
+      month: October
+      date: !str 30
+      year: !str 2013
+    - day: Thursday
+      month: October
+      date: !str 31
+      year: !str 2013
+    - day: Friday
+      month: November
+      date: !str 1
+      year: !str 2013
+    - day: Saturday
+      month: November
+      date: !str 2
+      year: !str 2013
+  time: !str 7:30pm
+  run: 1hr 50m
+  intermission: false
+  quote: A vampiric symphony of terror… to the beat of music composed by John Zorn, guru of the New York avant-garde.
+  reviewer: Rzeczpospolita (Poland)
+  description: Terrifying, yet seductive. Blood-thirsty harbingers of death who extend a twisted promise of immortality. The vampire figure has long been defined by Bram Stoker’s classic interpretation, Dracula. In Nosferatu, Poland’s TR Warszawa and Teatr Narodowy dig beneath that veneer to deliver a deeply hypnotic, visually sumptuous new take on the vampire legend. Set to an unnerving score by downtown fixture John Zorn, director Grzegorz Jarzyna’s production suspends us in a liquid-green world of shadowy set pieces, brimming with eroticism, while returning to the legend’s deep reflections on fear and the human need for transgression.
+  credits:
+    - Set design and costumes by Magdalena Maciejewska
+    - Lighting design by Jacqueline Sobiszewski
+    - Video design by Bartek Macias
+    - Music by John Zorn
+  byline: Grzegorz Jarzyna
+  addinfo:
+    - In Polish with English subtitles 
+  image: nosferatu.jpg
+  video: ~
+  premier: us
+- title: An Enemy of the People
+  category: Theater
+  location: BAM Harvey Theater
+  price:
+    fullprice: !str 25
+    seasonticket: !str 17.50
+  dates:
+    - day: Wednesday
+      month: November 
+      date: !str 6
+      year: !str 2013
+    - day: Thursday
+      month: November 
+      date: !str 7
+      year: !str 2013
+    - day: Friday
+      month: November 
+      date: !str 8
+      year: !str 2013
+    - day: Saturday
+      month: November 
+      date: !str 9
+      year: !str 2013
+    - day: Sunday
+      month: November 
+      date: !str 10
+      year: !str 2013
+  time: !str 7:30pm
+  run: 2hr
+  intermission: false
+  quote: ~
+  reviewer: ~
+  description: !str A battle rages in the city. The drinking water is contaminated but never mind the opinion of a local expert theres a tourism industry to protect. Factions form; to tell or not to tell? Studded with contemporary references (renditions of songs by David Bowie and Gnarls Barkley, an excerpt of the incendiary 2008 political manifesto The Coming Insurrection), Ostermeierуs production brings Ibsens dark satire to a boil and, with help from the people, a solitary whistleblower to his knees.
+  credits:
+    - Directed by Thomas Ostermeier
+    - Adaptation by Florian Borchmeyer
+    - Set design by Jan Pappelbaum
+    - Costumes by Nina Wetzel
+    - Music by Malte Beckenbach, Daniel Freitag
+    - Lighting design by Erich Schneider
+    - Paintings by Katharina Ziemke
+  byline: Henrik Ibsen
+  addinfo:
+    - In German with English subtitles
+  image: an-enemy-of-the-people.jpg
+  video: ~
+  premier: us
+- title: The Humans
+  category: Theater
+  location: BAM Fisher Fishman Space
+  price:
+    fullprice: ~
+    seasonticket: ~ 
+  dates:
+    - day: Wednesday
+      month: November
+      date: !str 13
+      year: !str 2013
+    - day: Thursday
+      month: November
+      date: !str 14
+      year: !str 2013
+    - day: Friday 15
+      month: November
+      date: !str 16
+      year: !str 2013
+    - day: Saturday
+      month: November
+      date: !str 17
+      year: !str 2013
+    - day: Sunday
+      month: November
+      date: !str 18
+      year: !str 2013
+  time: !str 7:30pm
+  run: 3hr
+  intermission: true
+  quote: ~
+  reviewer: ~
+  description: Theater, music, sculpture, Nesquik bunnies, Greco-Roman masks, and a gigantic mountain find common cause in this irreverent performance work by the award-winning British visual artist Alexandre Singh. A boldly original concept that started as an installation piece at the Witte de With Center for Contemporary Art in Rotterdam and evolved into a full-fledged theatrical account of the universeуs creation, The Humans comes to BAM in its culminating chapter; a deliciously indecent mixed-media account of Manуs fall from grace. <br> Modeled on the comic writings of Aristophanes and set at the dawn of time and space, The Humans tells the tale of two spirits named Tophole and Pantalingua, who would rather the Earth not be created at all. In a battle against the egomaniacal Creator, they conspire their way to an accidental Paradise Lost, ultimately corrupting the eponymous humansяportrayed as a songful and statuesque Greek chorusяinto the flawed mortals we are today.
+  credits:
+    - Choreography by Flora Sans
+    - Music by Gerry Arling and Rik Elstgeest
+    - Costume design by Holly Waddington
+    - Lighting design by Guus van Geffen
+  byline: Alexandre Singh
+  addinfo:
+    - The Humans is commissioned by Witte de With Center for Contemporary Art and Performa.
+    - The Humans is co-produced by Preromainbritain LLC; Witte de With; Productiehuis Rotterdam; Rotterdamse Schouwburg and Performa 13.
+    - It is presented in partnership with festival De Keuze and the Brooklyn Academy of Music (BAM) as part of Performa 13.
+  image: the-humans.jpg
+  video: ~
+  premier: us
+- title: Water
+  category: Theater
+  location: BAM Harvey Theater
+  price:
+    fullprice: !str 20
+    seasonticket: !str 14 
+  dates:
+    - day: Wednesday
+      month: November 
+      date: !str 13
+      year: !str 2013
+    - day: Thursday
+      month: November 
+      date: !str 14
+      year: !str 2013
+    - day: Friday
+      month: November 
+      date: !str 15
+      year: !str 2013
+    - day: Saturday
+      month: November 
+      date: !str 16
+      year: !str 2013
+    - day: Sunday
+      month: November 
+      date: !str 17
+      year: !str 2013
+  time: !str 7:30pm
+  run: 1hr 40m
+  intermission: false
+  quote: ...a distinctive and distinguished piece of theatre.
+  reviewer: The Independent (UK)
+  description: In a beautiful theatrical reverie, director David Farr joins forces with Filter Theatre to present an exquisitely crafted story that reveals how the cracks in our most intimate human relationships resonate on a global scale.<br>Set beneath a vertical lake of light, ebbing from lavender to cerulean blue, Water intertwines two deeply personal dramas, both cast in the shadow of the struggle against climate change. Buoyed by live music and real-time video, this deft, dreamlike rendering of the personal and political asks how we can reach beyond ourselves and bond, like water, with those around us.
+  credits:
+    - Created by Filter Theatre and David Farr
+    - Set design by Jon Bausor
+    - Lighting design by Jon Clark
+    - Music and sound design by Tim Phillips
+  byline: David Farr
+  addinfo: ~
+  image: water.jpg
+  video: ~
+  premier: us
+- title: La Belle et la Bete
+  category: Theater
+  location: BAM Howard Gilman Opera House
+  price:
+    fullprice: !str 20
+    seasonticket: !str 14
+  dates:
+    - day: Thursday
+      month: November 
+      date: !str 21
+      year: !str 2013
+    - day: Friday
+      month: November 
+      date: !str 22
+      year: !str 2013
+    - day: Saturday
+      month: November 
+      date: !str 23
+      year: !str 2013
+  time: !str 7:30pm
+  run: 1hr 30m
+  intermission: false
+  quote: ...a stunner, pouring forth one unforgettable three-dimensional image after another.
+  reviewer: The Boston Globe
+  description: A disfigured recluse hides his pain in a lonely mansion, until a beautiful artist appears, nursing her own heartache. In this ravishing retelling of Beauty and the Beast, acclaimed creators Michel Lemieux and Victor Pilon transform a classic fairy tale into a grand feat of technological daring, charting breathtaking new territory in live performance.<br>Actors interact seamlessly with sophisticated projected imagery as a mercurial dream world unfolds. A ghostlike horse charges through a tangled forest of thorns, a mirror breaks in an explosion of virtual glass, and a phantom moves in for his disembodied kiss, hypnotizing us with this story about the redemptive power of love.
+  credits:
+    - Created and written by Pierre Yves Lemieux
+    - Translated by Maureen Labont
+    - Original score by Michel Smith
+    - Set, costume, and prop design by Anne-guin Poirier
+    - Visual design by Michel Lemieux and Victor Pilon with Mathieu St-Arnaud
+    - Lighting design by Alain Lortie
+  byline: Michel Lemieux & Victor Pilon
+  addinfo:
+    - Produced in collaboration with the Theatre du Nouveau Monde (Montreal, Canada). Co-commissioned by LUMINATO, Toronto Festival of Arts creativity and Espace Jean Legendre, Scene nationale de lуoise en profiguration
+  image: la-belle-et-la-bete.jpg
+  video: ~
+  premier: ny
+- title: Bodycast
+  category: Theater
+  location: BAM Fisher Fishman Space
+  price:
+    fullprice: !str 20
+    seasonticket: !str 20
+  dates:
+    - day: Tuesday
+      month: December
+      date: !str 3
+      year: !str 2013
+    - day: Thursday
+      month: December
+      date: !str 5
+      year: !str 2013
+    - day: Friday
+      month: December
+      date: !str 6
+      year: !str 2013
+    - day: Saturday
+      month: December
+      date: !str 7
+      year: !str 2013
+  time: !str 7:30pm
+  run: 1hr
+  intermission: false
+  quote: ~
+  reviewer: ~
+  description: Inspired by the two teenage years visual artist Suzanne Bocanegra spent in a body cast due to scoliosis, Bodycast is an inventive theatricalization of the ubiquitous рartist talk.с Part performance and part essay, Bocanegra uses the format to explore how and why she became an artist. It is a sequel of sorts to Bocanegraуs work When a Priest Marries a Witch, which used a similar approach to explore her Texas upbringing and had its premiere in 2010 at the Museum of Modern Art in New York. Upon viewing that earlier work, Academy Award-winning actor Frances McDormand suggested an artistic collaboration to Bocanegra. Exploring topics as disparate as Roman art, Rose queens, and Texas drill teams, Bodycast mines specific details of Bocanegraуs life to create a more general meditation on art-making and shifting ideals of feminine beauty. Singer Theo Bleckmann and dancer Emily Coates will make guest appearances in the work.
+  credits:
+    - Text and visuals by Suzanne Bocanegra
+    - Sound design by Jamie McElhinney
+    - Lighting design by Laura Mroczkowski
+  byline: Paul Lazar
+  addinfo: ~
+  image: bodycast.jpg
+  video: ~
+  premier: ny
+- title: The Rime of the Ancient Mariner
+  category: Theater
+  location: BAM Harvey Theater
+  price:
+    fullprice: !str 25
+    seasonticket: !str 27.50
+  dates:
+    - day: Tuesday
+      month: December
+      date: !str 10
+      year: !str 2013
+    - day: Wednesday
+      month: December
+      date: !str 11
+      year: !str 2013
+    - day: Thursday
+      month: December
+      date: !str 12
+      year: !str 2013
+    - day: Friday
+      month: December
+      date: !str 13
+      year: !str 2013
+    - day: Saturday
+      month: December
+      date: !str 14
+      year: !str 2013
+    - day: Sunday
+      month: December
+      date: !str 15
+      year: !str 2013
+    - day: Tuesday
+      month: December
+      date: !str 17
+      year: !str 2013
+    - day: Wednesday
+      month: December
+      date: !str 18
+      year: !str 2013
+    - day: Thursday
+      month: December
+      date: !str 19
+      year: !str 2013
+    - day: Friday
+      month: December
+      date: !str 20
+      year: !str 2013
+    - day: Saturday
+      month: December
+      date: !str 21
+      year: !str 2013
+    - day: Sunday
+      month: December
+      date: !str 22
+      year: !str 2013
+  time: !str 7:30pm
+  run: 45m
+  intermission: false
+  quote: ...a riveting, virtuoso performance...
+  reviewer: Financial Times on Fiona Shaw
+  description: Water, water everywhere.с Fiona Shaw delivers a masterful performance of Samuel Taylor Coleridgeуs eerie tale of penance paid on the high seas. Like an actor possessed, the fiery Shaw inhabits the very marrow of this epic 18th-century poem, bounding across the stage while transforming Coleridgeуs luminous language into an exhilarating lived experience.<br>In the icy Antarctic, a ship is lost at sea. And when a mariner shoots a bird thought to be the crewуs salvation, his macabre, guilt-inducing fateяthe veritable рalbatross around the neckсяis decided. Accompanied by dancer Daniel Hay Gordon, who offers interpretive counterpoint throughout, Shaw skirts a whirlpool, braves a crew of corpses, and rolls Deathуs dice with poetic abandon, taking us to hell and back.
+  credits:
+    - Directed by Phyllida Lloyd
+    - Composed by Mel Mercier
+    - Lighting design by Jean Kalman
+    - Set design by Chloe Obolensky
+    - Choreography by Kim Brandstrup
+  byline: Samuel Taylor Coleridge
+  addinfo: ~
+  image: the-rime-of-the-anchient-mariner.jpg
+  video: ~
+  premier: us
+- title: A Piece of Work
+  category: Theater
+  location: BAM Fisher Fishman Space
+  price:
+    fullprice: !str 20
+    seasonticket: !str 20
+  dates:
+    - day: Wednesday
+      month: December
+      date: !str 18
+      year: !str 2013
+    - day: Thursday
+      month: December
+      date: !str 19
+      year: !str 2013
+    - day: Friday
+      month: December
+      date: !str 20
+      year: !str 2013
+    - day: Saturday
+      month: December
+      date: !str 21
+      year: !str 2013
+  time: !str 7:30pm
+  run: 1hr 10m
+  intermission: false
+  quote: ~
+  reviewer: ~
+  description: To sleep. To dream. In Shakespeareуs Hamlet, we confront the most fundamental questions of our humanity. But what exactly do we confront when the play is shuffled, reordered, and rewritten by a computer?<br>In this daring marriage of live acting and artificial intelligence, Obie Award-winning director Annie Dorsen delivers a provocative parsing of Shakespeareуs work. Based on a sophisticated algorithm that generates a new version of the play nightlyяwords, visuals, lighting, music, and allяA Piece of Work features one actor, alternating between Obie winner Scott Shepherd (Elevator Repair Serviceуs Gatz, The Wooster Groupуs Hamlet) and theater legend Joan MacIntosh, a looming computer screen, and a chorus of synthesized voices channeling this uncanny text, refashioned in the automated image of our digital times.
+  credits:
+    - Concept and direction by Annie Dorsen
+    - Sound and network design by Gregory Beller
+    - Scenography/Video by Jim Findlay
+    - Lighting design by Bruno Pocheron & Ruth Waldeyer
+    - Systems design and text programming by Mark Hansen and Dylan Fried
+  byline: Annie Dorsen
+  addinfo:
+    - A Piece of Work is a co-production of BIT Teatergarasjen (Bergen), Black Box Teater (Oslo), Brooklyn Academy of Music (NYC), brut (Vienna), On the Boards (Seattle), and Theatre de la Villette (Paris).
+  image: a-piece-of-work.jpg
+  video: ~
+  premier: ny
+- title: Not What Happened
+  category: Theater
+  location: BAM Fisher Fishman Space
+  price:
+    fullprice: !str 20
+    seasonticket: !str 20
+  dates:
+    - day: Wednesday
+      month: September
+      date: !str 25
+      year: !str 2013
+    - day: Thursday
+      month: September
+      date: !str 26
+      year: !str 2013
+    - day: Friday
+      month: September
+      date: !str 27
+      year: !str 2013
+    - day: Saturday
+      month: September
+      date: !str 28
+      year: !str 2013
+    - day: Sunday
+      month: September
+      date: !str 29
+      year: !str 2013
+  time: !str 7:30pm
+  run: 1hr
+  intermission: false
+  quote: ~
+  reviewer: ~
+  description: How do we reconstruct a place in time when it leaves no trace? In Not What Happened, Obie Award-winning writer-director Ain Gordon, photographer Forrest Holzapfel, and director Ken Rus Schmoll take that question to the overlooked farms and fallow fields of Americaуs rural past.<br>Two seemingly identical women appear on stage; one is a historical reenactor nearing the end of her career, theatrically channeling a bygone 1804; the other is her doppelganger, the 19th-century subject she рrecreates. Amid projected images of cast-off farm tools and other ruins of rural life, we follow the reenactorуs crafted narrative alongside that of her ghostly double. History lived vies with history told, leaving us to wonder- can we ever know what really happened?
+  credits:
+    - Conceived and written by Ain Gordon
+    - Images by photographer Forrest Holzapfel
+    - Set and costume design by Arnulfo Maldonado
+    - Lighting design by Nick Ryckert
+  byline: Ken Rus Schmoll
+  addinfo: ~
+  image: not-what-happened.jpg
+  video: ~
+  premier: ny
+- title: The Blue Dragon
+  category: Theater
+  location: BAM Harvey Theater
+  price:
+    fullprice: !str 25
+    seasonticket: !str 17.50
+  dates:
+    - day: Wednesday
+      month: September
+      date: !str 18
+      year: !str 2013
+    - day: Thursday
+      month: September
+      date: !str 19
+      year: !str 2013
+    - day: Friday
+      month: September
+      date: !str 20
+      year: !str 2013
+    - day: Saturday
+      month: September
+      date: !str 21
+      year: !str 2013
+  time: !str 7:30pm
+  run: 1hr 50m
+  intermission: false
+  quote: ...[Robert] Lepage springs yet another breathtaking surprise, leaving no doubt that you are watching the work of a master.
+  reviewer: The Telegraph (UK)
+  description: Robert Lepage a master craftsman of breathtaking cinematic theaterяreturns to BAM with a visually stunning tale of love and disenchantment in modern-day Shanghai. A follow-up to his 1985 epic The Dragonsу Trilogy, The Blue Dragon revisits Pierre (played by Lepage), an expat art curator and former painter navigating a love triangle and a midlife crisis. A tiered set, inspired by the vivid colors and composition of graphic novels, shifts ingeniously from dank apartment to karaoke bar to billboard-strewn cityscape, as a bittersweet vision of a country seduced by modernity unfolds.
+  credits:
+    - Associate director Felix Dagenais
+    - English translation by Michael Mackenzie
+    - Set design by Michel Gauthier
+    - Properties design by Jeanne Lapierre
+    - Sound design by Jean-Sebastien Catz
+    - Lighting design by Louis-Xavier Gagnon-Lebrun
+    - Costume design by Francois St-Aubin
+    - Projection design by David Leclerc
+    - Choreography by Tai Wei Foo
+  byline: Marie Michaud & Robert Lepage
+  addinfo:
+    - In English, French, and Mandarin with English titles
+  image: the-blue-dragon.jpg
+  video: ~
+  premier: ny
+- title: "Run Don't Run"
+  category: Dance
+  location: BAM Fisher Fishman Space
+  price:
+    fullprice: !str 20
+    seasonticket: !str 20
+  dates:
+    - day: Tuesday
+      month: October
+      date: !str 22
+      year: !str 2013
+    - day: Wednesday
+      month: October
+      date: !str 23
+      year: !str 2013
+    - day: Thursday
+      month: October
+      date: !str 24
+      year: !str 2013
+    - day: Friday
+      month: October
+      date: !str 25
+      year: !str 2013
+    - day: Saturday
+      month: October
+      date: !str 26
+      year: !str 2013
+  time: !str 7:30pm
+  run: 1hr
+  intermission: false
+  quote: Brooks loves to shatter conventional notions of the human capacity for strength and endurance.
+  reviewer: Dance Magazine
+  description: "Brian Brooks is a daring choreographer, concocting precise, kinetic, and volatile sequences of movement that test the threshold of physical endurance. In Run Donуt Run, Brooks (recently awarded a 2013 Guggenheim Fellowship) employs rapid-fire partnering to explore the spatial contradictions of bodies in motion. Behind a blur of colorяcreated by hundreds of cloth strands stretched across the stageяdancers ricochet off one another in a strobe-like flurry of actions: captured, suspended, and broken apart. Microphones installed throughout the space pick up every sound, amplifying the laws of gravity and inertia, as the dancers transgress space and time."
+  credits:
+    - Brian Brooks Moving Company
+    - Choreography by Brian Brooks
+    - Music by Christopher Lancaster
+    - Lighting design by Joe Levasseur
+    - Installation design by Brian Brooks and Philip Trevivo
+    - Costume design by Karen Young
+  byline: Brian Brooks
+  addinfo: ~
+  image: run-dont-run.jpg
+  video: ~
+  premier: ny
+- title: Dark Theater
+  category: Dance
+  location: BAM Fisher Fishman Space
+  price:
+    fullprice: !str 20
+    seasonticket: !str 20
+  dates:
+    - day: Tuesday
+      month: October
+      date: !str 29
+      year: !str 2013
+    - day: Wednesday
+      month: October 
+      date: !str 30
+      year: !str 2013
+    - day: Thursday
+      month: October
+      date: !str 31
+      year: !str 2013
+    - day: Friday
+      month: November
+      date: !str 1
+      year: !str 2013
+    - day: Saturday
+      month: November
+      date: !str 2
+      year: !str 2013
+  time: !str 7:30pm
+  run: 50m
+  intermission: false
+  quote: ...a strong choreographic personality a refreshing mixture of casualness and discipline, lunacy and sincerity...
+  reviewer: The New Yorker
+  description: As a dancer with Mark Morris Dance Group, John Heginbotham won over audiences with his magnetism and incisive musicality. With Dance Heginbotham, he combines clever movement with a range of music, from Daft Punk to Irving Berlin, into an utterly compelling form of dance-theater.<br>For their BAM debut, Heginbotham and company present Dark Theater, a brand new work inspired by Dadaist painter Francis Picabiaуs provocative 1924 ballet Rel┴che, set to a mellifluous score by Erik Satie. Six dancers inhabit a blissfully nonsensical world in which the floor and ceiling are occasionally reversed, the non sequitur is king, and movement perpetually affirms the now
+  credits:
+    - Choreography by John Heginbotham
+    - Lighting design by Nicole Pearce
+    - Costume design by Maile Okamura
+  byline: Dance Heginbotham
+  addinfo: ~
+  image: dark-theater.jpg
+  video: ~
+  premier: us
+- title: Dark Lark
+  category: Dance
+  location: BAM Fisher Fishman Space
+  price:
+    fullprice: !str 20
+    seasonticket: !str 20
+  dates:
+    - day: Wednesday
+      month: November
+      date: !str 6
+      year: !str 2013
+    - day: Thursday
+      month: November
+      date: !str 7
+      year: !str 2013
+    - day: Friday
+      month: November
+      date: !str 8
+      year: !str 2013
+    - day: Saturday
+      month: November
+      date: !str 9
+      year: !str 2013
+  time: !str 7:30pm
+  run: 1hr
+  intermission: false
+  quote: No one else is making work quite like hers.
+  reviewer: The Village Voice
+  description: In this provocative new work, Kate Weareяthe BAM Fisherуs first artist-in-residenceяlooks to sexual fantasy as a metaphor for creative expression, using the stage as a place where we can perform as the most potent, desiring versions of ourselves.<br>An original cello score by Chris Lancaster ushers us into this suggestive realm, fetishized and electrified by Weareуs sensual, aggressively intertwined movement vocabulary. Brilliantly attuned to each individual dancerуs quirks and complex identities, Weare orchestrates a series of duets, solos, and trios that explore exposure, self-censorship, and vulnerability, examining howяin the safest, most indeterminate spacesяbodies offer up secrets of their inner life.
+  credits:
+    - Choreography by Kate Weare
+    - Costume design by Sarah Cubbage
+    - Lighting design by Brian Jones
+    - Set design by Kurt Perschke
+  byline: Kate Weare Company
+  addinfo: ~
+  image: dark-lark.jpg
+  video: ~
+  premier: ny
+- title: And then, one thousand years of peace
+  category: Dance
+  location: BAM Howard Gilman Opera House
+  price:
+    fullprice: !str 20
+    seasonticket: !str 14
+  dates:
+    - day: Thursday
+      month: November
+      date: !str 7
+      year: !str 2013
+    - day: Friday
+      month: November
+      date: !str 8
+      year: !str 2013
+    - day: Saturday
+      month: November
+      date: !str 9
+      year: !str 2013
+  time: !str 7:30pm
+  run: 1hr 40m
+  intermission: false
+  quote: Preljocaj is a clever choreographer, superb at eliciting a raw, uninhibited physicality
+  reviewer: The Guardian (UK)
+  description: Sensual, dramatic, and daring is the world of choreographer Angelin Preljocaj, a sought-after master provocateur whose works have ranged from an erotic Snow White, featuring costumes by Jean Paul Gaultier, to a commission for New York City Ballet set to music by John Cage. For this work, Preljocaj offers an epic encounter with the end of the world, exploring the apocalypse as a revelation of the deepest truths of our being.Electronic music by influential DJ Laurent Garnier, mixed with samples of Beethoven, and a dramatic staging by renowned artist Subodh Gupta set the mood. Alternating between intense, slashing gestures and classical ballet, the 21 dancers of Ballet Preljocaj evoke the visions of life and death, calm and chaos, that have long kept us clamoring for redemption.
+  credits:
+    - Choreography by Angelin Preljocaj
+    - Music by Laurent Garnier
+    - Set design by Subodh Gupta
+    - Costume design by Igor Chapurin
+    - Lighting design by Cecile Giovansili-Vissiore
+  byline: Ballet Preljocaj
+  addinfo:
+    - Coproduction<br>Rhane General Council / Dance Biennial in Lyon, Theatre National de Chaillot (Paris), Grand Theatre de Luxembourg, The Amsterdam Music Theatre (Amsterdam, Netherlands), Theater im Pfalzbau (Ludwigshafen, Germany) Spielzeit Europa - Berliner Festspiele (Germany), Theatre of Saint-Quentin-en-Yvelines, MC2 (Grenoble), Theatre de Caen, Royal Opera House - the Chateau de Versailles, France-Russia Year 2010.
+    - With the support of the Grand Theatre de Provence, Aix-en-Provence.
+  image: and-then-one-thousand-years-of-peace.jpg
+  video: ~
+  premier: ny
+- title: Sun
+  category: Dance
+  location: BAM Howard Gilman Opera House
+  price:
+    fullprice: !str 20
+    seasonticket: !str 14
+  dates:
+    - day: Thursday
+      month: November
+      date: !str 14
+      year: !str 2013
+    - day: Friday
+      month: November
+      date: !str 15
+      year: !str 2013
+    - day: Saturday
+      month: November
+      date: !str 16
+      year: !str 2013
+  time: !str 7:30pm
+  run: 1hr 10m
+  intermission: false
+  quote: Shechter is a magnificent, one-of-a-kind choreographer.
+  reviewer: The Guardian (UK)
+  description: Israeli-born, UK-based choreographer Hofesh Shechterуs highly visceral, theatrical dance pieces pair explosive, almost primal movement with the exhilarating sounds and smoky atmosphere of a rock concert. A former dancer with Ohad Naharinуs Batsheva Dance Company, Shechter and his company have performed sold-out shows at Sadlerуs Wells in London and to packed houses in Paris, Sydney, and Tokyo.<br>This season, he returns to BAM with Sun, a brand-new work featuring an expanded company of 14 dancers and an eclectic soundtrack that includes original music by Shechter himself.
+  credits:
+    - Choreography and music by Hofesh Shechter
+    - Costume design by Christina Cunningham
+    - Lighting design by Lee Curran
+    - Set design by Merle Hensel
+  byline: Hofesh Shechter Company
+  addinfo: ~
+  image: sun.jpg
+  video: ~
+  premier: us
+- title: Play/Pause
+  category: Dance
+  location: BAM Fisher Fishman Space
+  price:
+    fullprice: !str 20
+    seasonticket: !str 20
+  dates:
+    - day: Wednesday
+      month: November
+      date: !str 20
+      year: !str 2013
+    - day: Thursday
+      month: November
+      date: !str 21
+      year: !str 2013
+    - day: Friday
+      month: November
+      date: !str 22
+      year: !str 2013
+    - day: Saturday
+      month: November
+      date: !str 23
+      year: !str 2013
+  time: !str 7:30pm
+  run: 1hr 15m
+  intermission: false
+  quote: ~
+  reviewer: ~
+  description: In an electric guitar-fueled evening of postmodern dance-theater, Susan Marshall couples her intimate, structured choreography with the seductiveness of pop culture to explore our complex relationship to the media we consume.<br>Referencing the dance moves and sleek production values of popular music videos, Marshallуs choreography adds nuance to that high-gloss aesthetic while stripping away its context, rendering it both more profound and strange. A commissioned score by Pulitzer Prize-winning composer David Langяperformed live by members of guitar quartet Dither and Mantra Percussionяanimates this dialogue between the real and the virtual, in which bodies hover somewhere in between.
+  credits:
+    - Music by David Lang
+    - Costume design by Diana Broussard
+    - Lighting design by Eric Southern
+    - Video design and cinematography by William Cusick
+    - Set design by Andrea Mincic
+  byline: Susan Marshall & Company
+  addinfo: ~
+  image: play-pause.jpg
+  video: ~
+  premier: ny

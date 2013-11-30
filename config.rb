@@ -50,6 +50,7 @@ set :css_dir, 'stylesheets'
 set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
+  
 
 # Build-specific configuration
 configure :build do
@@ -67,4 +68,5 @@ configure :build do
 
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
+  
 end
