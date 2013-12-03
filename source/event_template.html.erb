@@ -1,13 +1,10 @@
 ---
-title: Welcome to Middleman
+title: 
 ---
+<% e = locals[:event] %>
 
-<% data.events.each do |e| %>
   <h2><%= e["title"] %></h2>
   <% e["dates"].each do |date| %>
       <h5><%= date["day"] %></h5>
   <% end %>
-  <% e["price"].each do |p| %>
-    <h4><%= p %></h4>
-  <% end %>
-<% end %>
+

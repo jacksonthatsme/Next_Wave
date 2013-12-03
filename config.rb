@@ -44,6 +44,11 @@
 #     "Helping"
 #   end
 # end
+ready do
+  data.events.each do |event|
+    page "#{event.slug}.html", :proxy => "/event_template.html", :ignore => true, :locals => { :event => event }
+  end
+end
 
 set :css_dir, 'stylesheets'
 

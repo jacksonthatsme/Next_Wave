@@ -1,5 +1,6 @@
 ---
 - title: Hans was Heiri
+  slug: hans-was-heiri
   category: Theater
   location: BAM Harvey Theater
   price:
@@ -43,6 +44,7 @@
   video: ~
   premier: ny
 - title: Nosferatu
+  slug: nosferatu
   category: Theater
   location: BAM Harvey Theater
   price:
@@ -83,6 +85,7 @@
   video: ~
   premier: us
 - title: An Enemy of the People
+  slug: an-enemy-of-the-people
   category: Theater
   location: BAM Harvey Theater
   price:
@@ -130,6 +133,7 @@
   video: ~
   premier: us
 - title: The Humans
+  slug: the-humans
   category: Theater
   location: BAM Fisher Fishman Space
   price:
@@ -176,6 +180,7 @@
   video: ~
   premier: us
 - title: Water
+  slug: water
   category: Theater
   location: BAM Harvey Theater
   price:
@@ -219,6 +224,7 @@
   video: ~
   premier: us
 - title: La Belle et la Bete
+  slug: la-belle-et-la-bete
   category: Theater
   location: BAM Howard Gilman Opera House
   price:
@@ -257,6 +263,7 @@
   video: ~
   premier: ny
 - title: Bodycast
+  slug: bodycast
   category: Theater
   location: BAM Fisher Fishman Space
   price:
@@ -295,6 +302,7 @@
   video: ~
   premier: ny
 - title: The Rime of the Ancient Mariner
+  slug: the-rime-of-the-ancient-mariner
   category: Theater
   location: BAM Harvey Theater
   price:
@@ -367,6 +375,7 @@
   video: ~
   premier: us
 - title: A Piece of Work
+  slug: a-piece-of-work
   category: Theater
   location: BAM Fisher Fishman Space
   price:
@@ -408,6 +417,7 @@
   video: ~
   premier: ny
 - title: Not What Happened
+  slug: not-what-happened
   category: Theater
   location: BAM Fisher Fishman Space
   price:
@@ -451,6 +461,7 @@
   video: ~
   premier: ny
 - title: The Blue Dragon
+  slug: the-blue-dragon
   category: Theater
   location: BAM Harvey Theater
   price:
@@ -496,6 +507,7 @@
   video: ~
   premier: ny
 - title: "Run Don't Run"
+  slug: run-dont-run
   category: Dance
   location: BAM Fisher Fishman Space
   price:
@@ -541,6 +553,7 @@
   video: ~
   premier: ny
 - title: Dark Theater
+  slug: dark-theater
   category: Dance
   location: BAM Fisher Fishman Space
   price:
@@ -583,6 +596,7 @@
   video: ~
   premier: us
 - title: Dark Lark
+  slug: dark-lark
   category: Dance
   location: BAM Fisher Fishman Space
   price:
@@ -622,6 +636,7 @@
   video: ~
   premier: ny
 - title: And then, one thousand years of peace
+  slug: and-then-one-thousand-years-of-peace
   category: Dance
   location: BAM Howard Gilman Opera House
   price:
@@ -660,6 +675,7 @@
   video: ~
   premier: ny
 - title: Sun
+  slug: sun
   category: Dance
   location: BAM Howard Gilman Opera House
   price:
@@ -695,6 +711,7 @@
   video: ~
   premier: us
 - title: Play/Pause
+  slug: play-pause
   category: Dance
   location: BAM Fisher Fishman Space
   price:
@@ -734,3 +751,541 @@
   image: play-pause.jpg
   video: ~
   premier: ny
+- title: Moses(es)
+  slug: moseses
+  category: Dance
+  location: BAM Harvey Theater
+  price:
+    fullprice: !str 20
+    seasonticket: !str 14
+  dates:
+    - day: Wednesday
+      month: December
+      date: !str 4
+      year: !str 2013
+    - day: Thursday
+      month: December
+      date: !str 5
+      year: !str 2013
+    - day: Friday
+      month: December
+      date: !str 6
+      year: !str 2013
+    - day: Saturday
+      month: December
+      date: !str 7
+      year: !str 2013
+  time: !str 7:30pm
+  run: 1hr 15m
+  intermission: false
+  quote: ...one of this country’s most talented choreographers...
+  reviewer: The New York Times
+  description: "A master choreographer and interpreter of movement traditions from the African diaspora, Reggie Wilson refracts elements of blues, slave, and spiritual cultures through postmodern structures to create his “post-African/neo-HooDoo” style.<br>In Moses(es), he examines the many representations of Moses in religious texts—and in the mythical, canonical, and ethnographic imaginations—to ask: how do we lead and why do we follow? Inspired by Zora Neale Hurston’s vernacular retelling in Moses, Man of the Mountain, Wilson traveled to Israel, Egypt, Turkey, and Mali to consider the migration of African people throughout the world. The result is this rich evening-length work—choreographed for nine performers and set to live vocalizations from the African diaspora and beyond—that unflinchingly questions leadership and our complex relationship to the Moses story."
+  credits:
+    - Choreography by Reggie Wilson
+    - Dramaturgy by Susan Manning
+    - Costume design by Naoko Nagata
+    - Lighting design by Jonathan Belche
+  byline: Fist & Heel Performance Group
+  addinfo: ~
+  image: moseses.jpg
+  video: ~
+  premier: ny
+- title: Bleed
+  slug: bleed
+  category: Dance
+  location: BAM Fisher Fishman Space
+  price:
+    fullprice: !str 20
+    seasonticket: !str 20
+  dates:
+    - day: Wednesday
+      month: December
+      date: !str 11
+      year: !str 2013
+    - day: Thursday
+      month: December
+      date: !str 12
+      year: !str 2013
+    - day: Friday
+      month: December
+      date: !str 13
+      year: !str 2013
+    - day: Saturday
+      month: December
+      date: !str 14
+      year: !str 2013
+  time: !str 7:30pm
+  run: 1hr 5m
+  intermission: false
+  quote: ~
+  reviewer: ~
+  description: "Marking the culmination of a two-year endeavor, choreographer Tere O’Connor collapses three of his dance works—Secret Mary, based on themes of authorship and agency; poem, a study in formalism, artifice, and complexity; and Untitled, a duet about the minutiae of personality—into a single hybrid creation. With each piece lending its own unique dancers, ideas, and approaches, Bleed forms a serendipitous new choreographic language. Meanings multiply through the layering, blending, and erasure of elements from each work, and in the choreographic threshold between process and product, craft and coincidence, a poetic logic is revealed."
+  credits:
+    - "Choreography by Tere O'Connor"
+    - Music composed by James Baker
+    - "Lighting design by Michael O’Connor"
+    - Set design by APTUM Architecture (Roger Hubeli and Julie Larsen)
+  byline: "Tere O'Connor Dance"
+  addinfo: ~ 
+  image: bleed.jpg
+  video: ~
+  premier: us
+- title: A Rite
+  slug: a-rite
+  category: Dance
+  location: BAM Howard Gilman Opera House
+  price:
+    fullprice: !str 20
+    seasonticket: !str 20
+  dates:
+    - day: Thursday
+      month: October
+      date: !str 3
+      year: !str 2013
+    - day: Friday
+      month: October
+      date: !str 4
+      year: !str 2013
+    - day: Saturday
+      month: October
+      date: !str 5
+      year: !str 2013
+  time: !str 7:30pm
+  run: 1hr 5m
+  intermission: false
+  quote: ~
+  reviewer: ~
+  description: "Since its riot-inciting Parisian premiere a century ago, The Rite of Spring has taken on near-mythic status as a symbol of artistic insurrection and a cornerstone of the avant-garde. In A Rite, Bill T. Jones/Arnie Zane Dance Company and Anne Bogart’s SITI Company—two ensembles with rich histories at BAM—join minds, bodies, and voices to offer this dance-theater celebration of Stravinsky’s incendiary work and its tremendous cultural resonance.<br>With clutched thighs and fists beating the ground, barefoot performers channel Vaslav Nijinsky’s original 1913 choreography to the crackle of a vintage recording. A shell-shocked WWI vet hears bombs in the opening chords, while an impassioned scholar waxes poetic about the radical structure of Stravinsky’s work. As the maelstrom morphs into chorales sung by the actors and dancers, who are virtually indistinguishable from one another, we tread the raw nerves of a masterpiece, which touches ours in return."
+  credits:
+    - Conceived, directed, and choreographed by Anne Bogart, Bill T. Jones, and Janet Wong In collaboration with the performers
+    - Lighting design by Robert Wierzel","Costume design by James Schuette
+  byline: Arnie Zane Dance Company & SITI Company
+  addinfo:
+    - A Rite was commissioned by Carolina Performing Arts at The University of North Carolina at Chapel Hill.
+  image: a-rite.jpg
+  video: ~
+  premier: ny
+- title: Sider
+  slug: sider
+  category: Dance
+  location: BAM Howard Gilman Opera House
+  price:
+    fullprice: !str 25
+    seasonticket: !str 17.50
+  dates:
+    - day: Wednesday
+      month: October
+      date: !str 9
+      year: !str 2013
+    - day: Thursday
+      month: October
+      date: !str 10
+      year: !str 2013
+    - day: Friday
+      month: October
+      date: !str 11
+      year: !str 2013
+    - day: Saturday
+      month: October
+      date: !str 12
+      year: !str 2013
+  time: !str 7:30pm
+  run: 1hr 10m
+  intermission: false
+  quote: Brilliant, inscrutable and wildly entertaining...
+  reviewer: The Guardian (UK) on William Forsythe
+  description: "For choreographer William Forsythe, the stage is a large-scale laboratory for boundless theatrical and linguistic investigation. In Sider, the knotty speech rhythms of late-16th-century Elizabethan tragedy form the unlikely point of departure.<br>Dancers, equipped with earphones that play a recording unheard by the audience, deliver fragmented, enigmatic movements based on the cadences and meanings of the sumptuous Elizabethan text. Wielding giant sheets of cardboard, the dancers conjure an array of kinetic imagery and sounds—deepening this beguiling translation and evoking a world in which one language is withheld while another rises to the surface."
+  credits:
+    - Music by Thom Willems
+    - Light object by Spencer Finch
+    - Lighting by Ulf Naumann and Tanja Rühl
+    - Costumes by Dorothee Merg
+    - Sound design by Dietrich Krüger
+  byline: William Forsythe and The Forsythe Company
+  addinfo:
+    - The Forsythe Company is supported by the city of Dresden and the state of Saxony as well as the city of Frankfurt am Main and the state of Hesse.
+    - The Forsythe Company is Company-in-Residence of both HELLERAU – European Center for the Arts in Dresden and the Bockenheimer Depot in Frankfurt am Main.
+    - With special thanks to the ALTANA Kulturstiftung for supporting The Forsythe Company.
+  image: sider.jpg
+  video: ~
+  premier: us
+- title: DanceMotion USA
+  slug: dancemotion-usa
+  category: Dance
+  location: 
+  price:
+    fullprice: !str Free
+    seasonticket: !str Free
+  dates:
+    - day: Thursday
+      month: October
+      date: !str 10
+      year: !str 2013
+    - day: Friday
+      month: October
+      date: !str 11
+      year: !str 2013
+    - day: Saturday
+      month: October
+      date: !str 12
+      year: !str 2013
+    - day: Sunday
+      month: October
+      date: !str 13
+      year: !str 2013
+  time: !str 7:30pm
+  run: 1hr 40m
+  intermission: false
+  quote: ...[Varone’s] highly charged, physically exciting choreography has made him a rarity among his generation...
+  reviewer: The New York Times
+  description: "A master storyteller of human dramas both great and small, New York-based choreographer Doug Varone creates work attuned to all manner of experience—from the still and intimate to the volatile and explosive. In this special engagement, Varone and his company are joined by Brenda Angiel Aerial Dance Company from Buenos Aires, Argentina. Together, they perform the final event of the third season of DanceMotion USA (SM), an initiative of the US Department of State, produced by BAM, that connects global communities through dance.<br>Since its inception, DanceMotion USA (SM) has brought performances, workshops, and master classes to 58 cities in 36 countries, reaching more than 63,000 people. The goal of DanceMotion USA (SM) is to share work by some of America’s finest contemporary dance makers and serve as a catalyst for cross-cultural understanding."
+  credits: ~
+  byline: Doug Varone
+  addinfo:
+    - Ticket distribution starts 90 minutes before curtain on the day of each performance at the BAM Fisher Box Office, 321 Ashland Place. First come, first seated. One ticket per person. Seating is limited.
+    - Post-Show Artist Talk on Fri, Oct 11
+  image: dancemotion-usa.jpg
+  video: ~
+  premier: ~
+- title: Come, and Back Again
+  slug: come-and-back-again
+  category: Dance
+  location: BAM Harvey Theater
+  price:
+    fullprice: !str 20
+    seasonticket: !str 14 
+  dates:
+    - day: Wednesday
+      month: October
+      date: !str 16
+      year: !str 2013
+    - day: Thursday
+      month: October
+      date: !str 17
+      year: !str 2013
+    - day: Friday
+      month: October
+      date: !str 18
+      year: !str 2013
+    - day: Saturday
+      month: October
+      date: !str 19
+      year: !str 2013
+  time: !str 7:30pm
+  run: 1hr
+  intermission: false
+  quote: ~
+  reviewer: ~
+  description: "In his latest work, choreographer David Dorfman looks to the messiness of daily life and the ingenious ways we persevere within it. His muse is the late Benjamin Smoke—eccentric front man of the 90s underground band Smoke, queer activist, occasional drag queen, and the subject of Jem Cohen and Peter Sillen’s acclaimed 2000 documentary—whose raw rock music touched on every facet of resiliency and loss.<br>Amid a junk-strewn set—designed by Brooklyn-based sculptor Jonah Emerson-Bell (in collaboration with street artist Caledonia “Swoon” Curry), Come, and Back Again features projections by video artist Shawn Hove and arrangements of Smoke’s music performed live by a band led by Brooklyn-based musician Sam Crawford. Dorfman’s athletic, heroic dancers abandon themselves to the mire, exploring how time, humility, hope, and love help us manage our teetering existence."
+  credits:
+    - Choreography by David Dorfman and the company
+    - Lighting design by Seth Reiser
+    - Costume design by Kristi Wood
+    - Set design by Jonah Emerson-Bell
+  byline: David Dorfman Dance 
+  addinfo: ~
+  image: come-and-back-again.jpg
+  video: ~
+  premier: ny
+- title: "Electronium: The Future Was Then"
+  slug: electronium
+  category: Music
+  location: BAM Howard Gilman Opera House
+  price:
+    fullprice: !str 25
+    seasonticket: !str 17.50
+  dates:
+    - day: Friday
+      month: October
+      date: !str 25
+      year: !str 2013
+    - day: Saturday
+      month: October
+      date: !str 26
+      year: !str 2013
+  time: !str 8pm
+  run: 2hr
+  intermission: true
+  quote: ~
+  reviewer: ~
+  description: "Following the critical acclaim of last year’s  Shuffle Culture, Ahmir “Questlove” Thompson (The Roots) returns to BAM with an all-star mash-up that celebrates the pioneering works of electronic music. R&B singer-producer Tom Krell (How To Dress Well), avant-R&B outfit Sonnymoon, violinist Emily Wells, beatboxer Rahzel, guitarist Kirk Douglas (The Roots), DJ-composer Jeremy Ellis, and conductor Andrew Cyr & Metropolis Ensemble join Grammy Award winner Questlove to sample and deconstruct seminal recordings by everyone from Robert Moog and Raymond Scott to Stevie Wonder and George Clinton into a feverishly modern new playlist. Old-school blips and beeps, sine waves, and analog synth solos mix with live vocals and contemporary electronics in this ecstatic riff on the analog revolution that paved the way for our music today."
+  credits:
+    - "Featured Artists:"
+    - Kirk Douglas
+    - Jeremy Ellis—Live Drum Machine
+    - How To Dress Well
+    - Rahzel
+    - Sonnymoon
+    - Emily Wells
+    - Metropolis Ensemble conducted by Andrew Cyr
+    - Arrangements by Anthony Tid and Patrick McMinn
+    - Lighting design by Alban Sardzinski
+    - Sound engineering by John Smeltz
+    - Stage design by Alex Delaunay
+    - Stage manager Cheng-Yu Wei
+  byline: Questlove and Richard Nichols
+  addinfo: ~
+  image: electronium.jpg
+  video: ~
+  premier: us
+- title: "21c Liederabend, op. 3"
+  slug: 21c-liederabend-op-3
+  category: Music
+  location: BAM Harvey Theater
+  price:
+    fullprice: !str 20
+    seasonticket: !str 14
+  dates:
+    - day: Friday
+      month: November
+      date: !str 22
+      year: !str 2013
+    - day: Saturday
+      month: November
+      date: !str 23
+      year: !str 2013
+  time: !str 7:30pm
+  run: 2hr
+  intermission: false
+  quote: ~
+  reviewer: ~
+  description: "The art-song recital is given fresh new life in the 21c Liederabend festival. Over the course of two evenings—with each featuring a distinct, dynamic program—video artists and lighting designers are paired with luminaries from the New York and international new-music scenes.<br>Boasting 10 world premieres, the festival—which played to sold-out audiences in its last two incarnations—showcases performances by NOVUS NY, the Choir of Trinity Wall Street, and a host of top soloists. The Friday lineup (Program 1) includes songs by Missy Mazzoli, Ted Hearne, Mohammed Fairouz, David T. Little, Marie Incontrera, Eric Whitacre, Tod Machover, and more. On Saturday (Program 2), hear Anna Clyne’s commissioned vocal work The Lost Thought; Judd Greenstein’s My City: Mannahatta,  featuring animation by Joshua Frankel; Paola Prestini’s Hubble Cantata; works by Nico Muhly and Julian Wachner; and much more. Full lineups listed below."
+  credits:
+    - Music direction by Julian Wachner
+    - "Featuring NOVUS NY, New York's finest solo singers, and The Choir of Trinity Wall Street"
+    - Scenic and lighting design by Maruti Evans
+    - Projection design by S. Katy Tucker
+  byline: Beth Morrison and Paola Prestini
+  addinfo:
+    - Co-commissioned and co-produced by Beth Morrison Projects and VisionIntoArt
+    - Program 1
+    - "Composers: Paola Prestini, Tom Cipullo, David Handler, Huang Ruo, Eric Whitacre, Aleksandra Vrebalov, Missy Mazzoli, Tod Machover, Du Yun, Marie Incontrera, Mohammed Fairouz, Ted Hearne, and David T. Little"
+    - "Featured performers: Christopher Burchett, David Adam Moore, Daisy Press, Min Xiao-fen, Trinity Choir, Anne-Carolyn Bird, Sarah Heaton, Lauren Worsham, Jessica Rivera, Tyrone Chambers, Timur Bekbosunov, Peter Tantsits, Marnie Breckenridge, and Netsayi & Black Pressure"
+    - Program 2
+    - Composers: Paola Prestini, Thomas Cabaniss, Christopher Cerrone, Eric Whitacre, Judd Greenstein (with new animation by Joshua Frankel), Anna Clyne (Festival Commission), Nico Muhly, Julian Wachner, Olga Neuwirth, and Michel Van der Aa
+    - "Featured performers: Jessica Rivera, Amelia Watkins, Daisy Press, Trinity Choir, DM Stith, Trio Medieval, Timur Bekbosunov, Christopher Burchett, Rachel Calloway, Marnie Breckenridge, and Netsayi & Black Pressure"
+  image: 21c-liederabend-op-3.jpg
+  video: ~
+  premier: ~
+- title: The Table
+  slug: the-table
+  category: Music
+  location: BAM Fisher Fishman Space
+  price:
+    fullprice: !str 20
+    seasonticket: !str 20
+  dates:
+    - day: Thursday
+      month: September
+      date: !str 19
+      year: !str 2013
+    - day: Friday
+      month: September
+      date: !str 20
+      year: !str 2013
+    - day: Saturday
+      month: September
+      date: !str 21
+      year: !str 2013
+    - day: Sunday
+      month: September
+      date: !str 22
+      year: !str 2013
+  time: !str 7:30pm
+  run: 1hr
+  intermission: false
+  quote: ...you’ll never have seen or heard anything quite like it.
+  reviewer: The Scotsman (UK)
+  description: "Four men sit at a table, hurling knives into it. Some stick with a wooden thud, while others fall over in a metallic shimmer. Soon, hands replace knives—fingers drum, palms swish, fists pound, nails scratch—and a rhythm starts to percolate.<br>The sounds are breathtaking, and just a hint at what’s to come in this work by the imaginative Polish music ensemble Karbido, in which an ordinary piece of furniture becomes an unlikely instrument with infinite sonic possibilities. With bowed strings mounted and amplifiers installed within, the table—created by the musicians themselves, with the technical wizardry of carpenters and sound engineers—comes thrillingly to life. Voices join the fold, a didgeridoo mumbles, bells ting, and amid ghostly shivers of sound, a table is transfigured."
+  credits:
+    - Lighting design and programming by Tomasz Sikora
+    - Sound design by Jacek Fedorowicz
+  byline: Karbido
+  addinfo: ~
+  image: the-table.jpg
+  video: ~
+  premier: us
+- title: We Have An Anchor
+  slug: we-have-an-anchor
+  category: Music
+  location: BAM Harvey Theater
+  price:
+    fullprice: !str 20
+    seasonticket: !str 14 
+  dates:
+    - day: Thursday
+      month: September
+      date: !str 26
+      year: !str 2013
+    - day: Friday
+      month: September
+      date: !str 27
+      year: !str 2013
+    - day: Saturday
+      month: September
+      date: !str 28
+      year: !str 2013
+  time: !str 7:30pm
+  run: 1hr 30m
+  intermission: false
+  quote: Cohen’s freeform assemblages triumphantly assert a unique mode of viewing the world…with a hypnotic poetry of the everyday...
+  reviewer: Time Out London
+  description: "DIY auteur and consummate independent filmmaker Jem Cohen (Museum Hours, Instrument, Benjamin Smoke) collaborates with a supergroup of acclaimed musicians— Guy Picciotto (Fugazi), Jim White (Dirty Three), T. Griffin (The Quavers), Efrim Manuel Menuck and Sophie Trudeau (Godspeed You! Black Emperor, Thee Silver Mt. Zion), and Jessica Moss (Thee Silver Mt. Zion), plus guest vocalist Mira Billotte (White Magic)—in this cinematic love letter to Nova Scotia’s Cape Breton.<br>Multiple layered film projections are interspersed with texts, ranging from poems to local folklore, and buoyed by the group’s alternately ethereal and epic original score. Shot over the course of a decade, We Have An Anchor—which was originally commissioned by the Experimental Media & Performing Arts Center (EMPAC) in Troy, NY, and premiered there last year—is an elegiac record of a place suspended in time, attuned to the icy fields, wind-whipped grasses, and lulling surf that mark this extraordinary landscape."
+  credits:
+    - Presented in association with Wordless Music
+    - Commissioned by EMPAC / Experimental Media and Performing Arts Center, Rensselaer Polytechnic Institute, Troy, NY.
+  byline: Jem Cohen
+  addinfo: ~
+  image: we-have-an-anchor.jpg
+  video: ~
+  premier: ny
+- title: Documerica
+  slug: documerica
+  category: Music
+  location: BAM Harvey Theater
+  price:
+    fullprice: !str 20
+    seasonticket: !str 14
+  dates:
+    - day: Wednesday
+      month: October
+      date: !str 2
+      year: !str 2013
+    - day: Thursday
+      month: October
+      date: !str 3
+      year: !str 2013
+    - day: Friday
+      month: October
+      date: !str 4
+      year: !str 2013
+    - day: Saturday
+      month: October
+      date: !str 5
+      year: !str 2013
+  time: !str 7:30pm
+  run: 1hr 20m
+  intermission: false
+  quote: ...vital and brilliant.
+  reviewer: The New Yorker
+  description: ~
+  credits:
+    - "Music by Mary Ellen Childs, Ralph Farris, Kip Jones, Dorothy Lawson, Ulysses Owens Jr., Jerod Impichchaachaaha' Tate, Tema Watstein, and James Kimo Williams"
+    - Projection design by Deborah Johnson
+    - Set design by Adrian W. Jones
+    - Lighting design by Christopher Kuhl
+    - Sound design by Dave Cook
+    - Concept by MZ Smith
+  byline: Steve Cosson
+  addinfo: ~
+  image: documerica.jpg
+  video: ~
+  premier: us
+- title: The Sweet Science Suite
+  slug: the-sweet-science-suite
+  category: Music
+  location: BAM Harvey Theater
+  price:
+    fullprice: !str 20
+    seasonticket: !str 14 
+  dates:
+    - day: Friday
+      month: October
+      date: !str 11
+      year: !str 2013
+    - day: Saturday
+      month: October
+      date: !str 12
+      year: !str 2013
+  time: !str 7:30pm
+  run: 1hr 10m
+  intermission: false
+  quote: An activist as well as a musician, Ho’s arrangements are as outstanding and unique as Ali’s boxing style.
+  reviewer: Jazz Word
+  description: "What could an 18-piece big band learn from the guy who knocked out George Foreman in the eighth round? To wield incredible power yet remain light on its feet? To embrace all cultures with compassion? To take enormous risks—and persevere?<br>In this deeply personal evening of music and dance, composer Fred Ho’s Green Monster Big Band channels the spirit of Muhammad Ali and other fighter figures who knew how to take punches while standing their ground. Performing choreography by Emmanuel Brown (a lead in Broadway’s Spiderman), dancers Marquez Vargas, Daniel Napolitano, Mathieu Williams, and Brown himself invoke everything from lightning-quick martial arts to the bounce and sting of Ali’s dazzling footwork. Marie Incontrera conducts Ho’s exuberant jazz score as it delivers a swaggering, brassy testament to the champion’s strut, color-blind vision, and humanity."
+  credits:
+    - Green Monster Big Band
+    - Choreography by Emmanuel Brown
+    - Directed by Youn Jung Kim
+    - Conducted by Marie Incontrera
+    - Lighting design by Ben Hagen
+    - Costume design by Barbara Register
+    - Projection design by Paul Lieber
+  byline: Fred Ho 
+  addinfo: ~
+  image: the-sweet-science-suite.jpg
+  video: ~
+  premier: us
+- title: "Goldberg's Variations"
+  slug:  goldbergs-variations
+  category: Music
+  location: BAM Fisher Fishman Space
+  price:
+    fullprice: !str 20
+    seasonticket: !str 20
+  dates:
+    - day: Thursday
+      month: October
+      date: !str 17
+      year: !str 2013
+    - day: Friday
+      month: October
+      date: !str 18
+      year: !str 2013
+    - day: Saturday
+      month: October
+      date: !str 19
+      year: !str 2013
+  time: !str 7:30pm
+  run: 1hr 5m
+  intermission: false
+  quote: ~
+  reviewer: ~ 
+  description: "An early bird pulls on a string (mistaken for a worm), which shoots a pistol, which bursts a bag, which drips water on a man, who gradually wakes up…<br>The absurdist inventions of Pulitzer Prize-winning cartoonist Rube Goldberg (1883—1970)—which include such contraptions as the Simple Alarm Clock, the Modest Mosquito Bite Scratcher, and a ridiculously complex method for lighting a cigar in a speeding car—come to life in composer, musician, and filmmaker Andy Biskin’s Goldberg’s Variations.<br>In a series of droll black-and-white animations based on Goldberg’s original illustrated designs, Biskin sets apparatus after apparatus in motion to the sounds of his whimsical original score. Performed by an all-star sextet featuring Biskin on clarinet, the music channels early jazz, vaudeville, and Looney Tunes-style mayhem to add tongue-in-cheek drama to these masterstrokes of ingenuity and wit."
+  credits:
+    - Music and animation by Andy Biskin
+    - Cartoons by Rube Goldberg
+  byline: Andy Biskin
+  addinfo: ~
+  image: goldbergs-variations.jpg
+  video: ~
+  premier: ~
+- title: War Sum Up
+  slug: war-sum-up
+  category: Opera
+  location: BAM Howard Gilman Opera House
+  price:
+    fullprice: !str 20
+    seasonticket: !str 14
+  dates:
+    - day: Friday
+      month: November
+      date: !str 1
+      year: !str 2013
+    - day: Saturday
+      month: November
+      date: !str 2
+      year: !str 2013
+  time: !str 7:30pm
+  run: 1hr 20m
+  intermission: false
+  quote: Painfully beautiful.
+  reviewer: Politiken (Denmark)
+  description: "In this beautiful, audacious merging of Japanese manga imagery, texts from traditional Noh theater, electronic sounds, and new music sung by the Latvian Radio Choir, War Sum Up ponders the essence of war.<br>Twelve bodies, shadow-dappled and anonymous, stand on a looming stage. They inhabit a scarred two-dimensional world, trapped behind projections of images of combat: an explosion, a suit of armor, a hand turning into a gun. Amid this stylized tableau are lush, dissonant chorales by Latvian composer Santa Ratniece, alternating with crackling soundscapes by British electronic pop group the Irrepressibles, intoning hymns to the warrior, spy, and soldier."
+  credits:
+    - Vocals by Latvian Radio Choir
+    - Directed by Kirsten Dehlholm
+    - Music by The Irrepressibles, Santa Ratniece with Gilbert Nouno
+    - Concept by Willie Flindt and Kirsten Dehlholm
+    - Musical direction by Kaspars Putnins
+    - Costumes by Henrik Vibskov
+    - Lighting design by Jesper Kongshaug
+    - Libretto from classic Noh theater edited by Willie Flindt
+    - Manga drawings by Hikaru Hayashi
+  byline: Hotel Pro Forma
+  addinfo:
+    - In Japanese with English subtitles
+  image: war-sum-up.jpg
+  video: ~
+  premier: us
